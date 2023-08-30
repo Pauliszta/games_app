@@ -1,3 +1,0 @@
-N_BALLOONS = 15
-BALLOON_MISSED = 'Missed'
-BALLOON_MOVING = 'Balloon Moving'
